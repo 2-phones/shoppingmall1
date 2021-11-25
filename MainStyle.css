@@ -1,0 +1,69 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Comforter+Brush&family=Itim&family=Mali:wght@500&family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Comforter+Brush&family=Dongle&family=Itim&family=Mali:wght@500&family=Permanent+Marker&display=swap');
+body{
+    background-color:#FFB6C1;
+    margin-left: 300px;
+    margin-bottom: 450px;
+   
+}
+.button:hover{
+    background-color: crimson;
+    color:darkblue;
+}
+
+.Laily2:hover{
+    color: yellow;
+}
+.Laily{  
+    
+    font-size: 230px;
+    color:white;
+    font-family: 'Itim', cursive;
+    text-align: center;
+    line-height: 200px;
+    margin-top: 300px;
+    margin-right: 300px;
+    
+
+}
+    
+.Laily2{
+    font-size: 230px;
+    color:skyblue;
+    font-family: 'Itim', cursive;
+    text-align: center;
+    line-height: 200px;
+    margin-top: -180px;
+    margin-right: 300px;
+
+}
+a:visited{
+    color: black;
+}
+a{
+    text-decoration:none;
+    
+}
+
+ul{
+    list-style: none;
+    text-align: center;
+    margin-top:350px;
+
+    
+
+}
+
+li{
+    font-family: 'Dongle', sans-serif;;
+    padding : 0;
+    font-size: 30px;
+    float: left;
+   margin-left: 100px;
+   
+
+   
+ 
+    
+}
